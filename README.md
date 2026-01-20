@@ -2,15 +2,6 @@
 
 Cyber Security Engineer and Software developer focused on building clean, efficient, and maintainable systems.
 
-
-## 🔧 Tech Stack
-
-- Languages: Python, JavaScript, TypeScript  
-- Backend: Node.js, FastAPI  
-- Frontend: React, Next.js  
-- Tools: Git, Docker, Linux
-- Framework: Django
-
 ## 📊 GitHub Stats
 
 <p align="center">
